@@ -13,7 +13,8 @@
         "--socket=pulseaudio",
         "--share=ipc",
         "--share=network",
-        "--device=dri"
+        "--device=dri",
+        "--env=QTWEBENGINEPROCESS_PATH=/app/bin/QtWebEngineProcess"
     ],
     "cleanup-commands": [
         "/app/cleanup-BaseApp.sh"
