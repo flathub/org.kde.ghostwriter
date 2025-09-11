@@ -119,8 +119,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/ghostwriter-25.08.0.tar.xz",
-                    "sha256": "e263840e6e4a5f24ca46c615cfafd0c4b792349bb66354a40ac3beef00b5d8b7",
+                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/ghostwriter-25.08.1.tar.xz",
+                    "sha256": "b2b27ef5d02e174985d54a5da6a6dd86ecbf2cdf74ff4de6a0c0e679d3008c42",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 18298,
