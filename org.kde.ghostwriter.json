@@ -19,6 +19,11 @@
     "cleanup-commands": [
         "/app/cleanup-BaseApp.sh"
     ],
+    "cleanup": [
+        "/lib/*/pkgconfig",
+        "/lib/*.a",
+        "/lib/cmake-gfm-extensions"
+    ],
     "modules": [
         {
             "name": "cmark",
