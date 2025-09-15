@@ -8,13 +8,13 @@
     "command": "ghostwriter",
     "rename-icon": "ghostwriter",
     "finish-args": [
-        "--socket=wayland",
-        "--socket=fallback-x11",
-        "--socket=pulseaudio",
+        "--device=dri",
+        "--env=QTWEBENGINEPROCESS_PATH=/app/bin/QtWebEngineProcess",
         "--share=ipc",
         "--share=network",
-        "--device=dri",
-        "--env=QTWEBENGINEPROCESS_PATH=/app/bin/QtWebEngineProcess"
+        "--socket=fallback-x11",
+        "--socket=pulseaudio",
+        "--socket=wayland"
     ],
     "cleanup-commands": [
         "/app/cleanup-BaseApp.sh"
