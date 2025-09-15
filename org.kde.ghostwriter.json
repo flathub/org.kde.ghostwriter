@@ -23,6 +23,10 @@
         {
             "name": "cmark",
             "buildsystem": "cmake-ninja",
+            "config-opts": [
+                "-DBUILD_TESTING=OFF",
+                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+            ],
             "builddir": true,
             "sources": [
                 {
@@ -41,6 +45,9 @@
         {
             "name": "cmark-gfm",
             "buildsystem": "cmake-ninja",
+            "config-opts": [
+                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+            ],
             "builddir": true,
             "sources": [
                 {
@@ -59,6 +66,9 @@
         {
             "name": "MultiMarkdown",
             "buildsystem": "cmake-ninja",
+            "config-opts": [
+                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+            ],
             "builddir": true,
             "sources": [
                 {
@@ -115,6 +125,10 @@
         {
             "name": "ghostwriter",
             "buildsystem": "cmake-ninja",
+            "config-opts": [
+                "-DBUILD_TESTING=OFF",
+                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+            ],
             "builddir": true,
             "sources": [
                 {
