@@ -102,8 +102,8 @@
                     "only-arches": [
                         "x86_64"
                     ],
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-linux-amd64.tar.gz",
-                    "sha256": "1a035c1f7d295c353f614461fa4bc13d703c0e865387d44341d1556d703de59a",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-linux-amd64.tar.gz",
+                    "sha256": "b362815e21d8ad3629c124aa92baf54558da086ad72374b4f6fdd97b9f3275b0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 2589,
@@ -116,8 +116,8 @@
                     "only-arches": [
                         "aarch64"
                     ],
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-linux-arm64.tar.gz",
-                    "sha256": "87cac7b2b02495c0533f75193b40837c50c5c313d905b19829c721d617a073b9",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-linux-arm64.tar.gz",
+                    "sha256": "852e898c2490fa840ae75a8b6af8a6c9d6d63b77ef170c32ec3a17958464d929",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 2589,
@@ -138,8 +138,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/ghostwriter-25.08.1.tar.xz",
-                    "sha256": "b2b27ef5d02e174985d54a5da6a6dd86ecbf2cdf74ff4de6a0c0e679d3008c42",
+                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/ghostwriter-25.08.2.tar.xz",
+                    "sha256": "5f0d1a51e07ca5865b335239aa20de575e4cd57a4932966d5a96d8dff3dbd676",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 18298,
