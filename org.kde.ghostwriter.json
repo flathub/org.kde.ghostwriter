@@ -128,6 +128,7 @@
                     "url": "https://download.kde.org/stable/release-service/25.12.2/src/ghostwriter-25.12.2.tar.xz",
                     "sha256": "365fdea7669152f224271ede68c7c50f5b220cce26e4310482fed7e8c420de95",
                     "x-checker-data": {
+                        "is-main-source": true,
                         "type": "anitya",
                         "project-id": 18298,
                         "stable-only": true,
