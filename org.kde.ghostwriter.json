@@ -27,8 +27,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/commonmark/cmark/archive/refs/tags/0.31.1.tar.gz",
-                    "sha256": "3da93db5469c30588cfeb283d9d62edfc6ded9eb0edc10a4f5bbfb7d722ea802",
+                    "url": "https://github.com/commonmark/cmark/archive/refs/tags/0.31.2.tar.gz",
+                    "sha256": "f9bc5ca38bcb0b727f0056100fac4d743e768872e3bacec7746de28f5700d697",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 9159,
@@ -125,8 +125,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/ghostwriter-25.12.2.tar.xz",
-                    "sha256": "365fdea7669152f224271ede68c7c50f5b220cce26e4310482fed7e8c420de95",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/ghostwriter-25.12.3.tar.xz",
+                    "sha256": "b70127c420e1d8f72379cee4c70c809104b581f63c9da7c83ff344497934d796",
                     "x-checker-data": {
                         "is-main-source": true,
                         "type": "anitya",
