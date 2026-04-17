@@ -93,8 +93,8 @@
                     "only-arches": [
                         "x86_64"
                     ],
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.9/pandoc-3.9-linux-amd64.tar.gz",
-                    "sha256": "872a10c7ec29d5278831d855b11bd4ade0df4d5ec9a089a3197bc63a37eb4003",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-linux-amd64.tar.gz",
+                    "sha256": "a69abfababda8a56969a254b09f9553a7be89ddec00d4e0fe9fd585d71a67508",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 2589,
@@ -107,8 +107,8 @@
                     "only-arches": [
                         "aarch64"
                     ],
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.9/pandoc-3.9-linux-arm64.tar.gz",
-                    "sha256": "e09b97d7313bd417a35bde6c747c458486ec84f696e1cfd0f8c527cd69c89433",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-linux-arm64.tar.gz",
+                    "sha256": "b6d21e8f9c3b15744f5a7ab40248019157ed7793875dbe0383d4c82ff572b528",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 2589,
@@ -125,8 +125,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/ghostwriter-25.12.3.tar.xz",
-                    "sha256": "b70127c420e1d8f72379cee4c70c809104b581f63c9da7c83ff344497934d796",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/ghostwriter-26.04.0.tar.xz",
+                    "sha256": "209f95a58ad6c0908cf1a085e8e6a953b12c5c0908ccd8599dfc5a810cf4668b",
                     "x-checker-data": {
                         "is-main-source": true,
                         "type": "anitya",
