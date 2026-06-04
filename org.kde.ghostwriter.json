@@ -125,8 +125,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.1/src/ghostwriter-26.04.1.tar.xz",
-                    "sha256": "fbe2ba851cd71ed64bd2f86fc544c02bc06547ddc4c9cec9a1d658c5de15e1a3",
+                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/ghostwriter-26.04.2.tar.xz",
+                    "sha256": "4d3b6e57579843a1dd50d09d344667c07b1511f4dcf82764dbd661d28889d5dc",
                     "x-checker-data": {
                         "is-main-source": true,
                         "type": "anitya",
