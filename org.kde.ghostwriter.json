@@ -130,7 +130,7 @@
                     "x-checker-data": {
                         "is-main-source": true,
                         "type": "anitya",
-                        "project-id": 18298,
+                        "project-id": 8763,
                         "stable-only": true,
                         "tag-template": "$version",
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/ghostwriter-$version.tar.xz"
