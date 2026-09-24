@@ -1,9 +1,9 @@
 {
     "app-id": "org.kde.ghostwriter",
     "runtime": "org.kde.Platform",
-    "runtime-version": "6.10",
+    "runtime-version": "6.11",
     "base": "io.qt.qtwebengine.BaseApp",
-    "base-version": "6.10",
+    "base-version": "6.11",
     "sdk": "org.kde.Sdk",
     "command": "ghostwriter",
     "rename-icon": "ghostwriter",
@@ -93,8 +93,8 @@
                     "only-arches": [
                         "x86_64"
                     ],
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.10/pandoc-3.10-linux-amd64.tar.gz",
-                    "sha256": "e0f8af62d0f267d22baa5bcefe6d5dda3a097ccc60de794b759fe03159923244",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-linux-amd64.tar.gz",
+                    "sha256": "37edb3bbcf722f921a009941bf5874e2e0c09263226c9b4a2d980788cb062ab6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 2589,
@@ -107,8 +107,8 @@
                     "only-arches": [
                         "aarch64"
                     ],
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.10/pandoc-3.10-linux-arm64.tar.gz",
-                    "sha256": "55413dfb0c1aec861641fe858f1f73e84848f3db497b1c0c02e62887ea76f4a4",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-linux-arm64.tar.gz",
+                    "sha256": "56ed5566ec41d22ec9ee0704e6ac0b98ba102e92384efd5306173a22d314c79a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 2589,
@@ -125,8 +125,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/ghostwriter-26.04.3.tar.xz",
-                    "sha256": "c948923d90c8ab3d5c22a426a4a02efff663aeaeec836bf59a9dcf9a3e38a7bf",
+                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/ghostwriter-26.08.1.tar.xz",
+                    "sha256": "59f0ca6d31e881d7e5aaa76f386ae2d42b3e4da9cf959224526b3d12addd4ef6",
                     "x-checker-data": {
                         "is-main-source": true,
                         "type": "anitya",
